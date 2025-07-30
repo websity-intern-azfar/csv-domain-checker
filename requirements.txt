@@ -1,0 +1,5 @@
+streamlit
+pandas
+nest_asyncio
+playwright==1.46.0
+tqdm               # gives tqdm.asyncio

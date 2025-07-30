@@ -1,0 +1,61 @@
+Company Name,Full Name,Company Domain,Email Domain,EmailMatch,RetryNote
+Al Hail Law Firm الهـــيل للــمحاماة,Mouen Elfegih,https://alhaillawfirm.com,alhail.law,Fail,StillDiff
+Mohammed S. Al Jarbou Law Firm in Association with Younes & Associates,Suliman Aljarbou,https://jy-lawyers.com,aljarboulaw.com,Fail,StillDiff
+TLP Advisors,Harshil Agarwal,https://techlawpolicy.com,vara.ae,Fail,StillDiff
+Yash Global Consultants,Partap Gill,https://yashimmiglobal.sg,yashimmiglobal.com,Fail,StillDiff
+LexisNexis Middle East,Vincent Slingerland,https://lexis.ae,lexisnexis.com,Fail,FetchErr:Timeout|200
+iKonnect Citizens,Varoon Sinha,https://ikonnect.ae,smartzone.ae,Fail,StillDiff
+Ezz Law Firm,Ezzeldin Othman,https://ezz4law.com,4l.biz,Fail,FetchErr:Timeout|Timeout
+Dr. Mohammed Al-Muhanna & Partners. Lawyers and Consultants,Mohammed Almuhanna,https://dr-almuhanna.com,almuhanna.co,Fail,StillDiff
+Veritas Law,Ben Ewing,https://veritasksa.law,theveritaslawfirm.com,Fail,StillDiff
+Just Wills,Mohammad Marria,https://justwills.ae,just-wills.net,Fail,StillDiff
+Hamdan Rashoud Al Zeyoudi Advocates And Legal Consultants -    Law Firm Since 1989,Mohamed ,https://hrz-law.com,law-hrz.com,Fail,FetchErr:Error|200
+AMCO Law Firm,George Sk,https://amcolawfirm.com,fotislaw.com,Fail,StillDiff
+AlSuwaiket and AlBusaiyes Co.,Bader Busaiyes,https://sbsaudilawyers.com,sb-lawyersweb.com,Pass,Pass
+"Hikmat Fayad & Associates, Advocates and Legal Consultants",Hikmat Fayad,https://hikmatfayad.com,emirates.net.ae,Fail,FetchErr:Error|200
+legal-route,Nigel Byrne,https://legal-route.com,globlegal.com,Pass,Pass
+Vision Immigration Consultancy,Simeen Faraz,https://visionconsultancy.com,visionimm.com,Fail,FetchErr:Error|200
+Kochhar & Co Inc.,Avichal Prasad,https://kochhardubai.com,kochhar.com,Fail,StillDiff
+The Legal Group - TLG,Zach Anderson,https://tlg.ae,tlgtrucks.com,Fail,StillDiff
+RIAA Barker Gillette Global Alliance,Saima Hasan,https://riaabarkergillette.com,riaabg.ae,Fail,FetchErr:Error|200
+CanApprove,Karthik S,https://canapprove.ae,canapprove.com,Fail,StillDiff
+YAXIS MIDDLE EAST DMCC,Karthik Sundarajan,https://y-axis.ae,y-axis.com,Fail,StillDiff
+Nexsoma,Foutoun Hajjar,https://nexsomalegal.com,nexsoma.com,Fail,StillDiff
+Al Marri & El Hage Law Offices,Myriam Eid,https://marrilaw.com,marri-hage.com,Fail,FetchErr:Error|200
+Aequitas Law Firm,Yuliya Chumachenko,https://aequitasinternational.com,aequitas.kz,Fail,StillDiff
+De Familiezaak,Nynke Whiterod,https://dekinderadvocaat.nl,defamiliezaak.com,Pass,Pass
+Always Improving • Business Setup in Dubai,Malik Khattou,https://creer-societe-dubai.fr,always-improving.com,Pass,Pass
+CRESCO Legal,Naveen Indrakanti,https://crescolegal.com,cresco.ae,Fail,StillDiff
+AS&H Clifford Chance,Abdullah Alajlan,https://ashcliffordchance.com,ashlawksa.com,Fail,FetchErr:404|Error
+Khairallah Advocates & Legal Consultants,Abdultaiyab Bahrainwala,https://khairallahlegal.com,khlegal.ae,Fail,StillDiff
+CVML Middle East,Silvio Santacroce,https://cvml.com,cvml.ae,Fail,StillDiff
+BSB Legal Consultants,Smriti Ganotra,https://bsblegal.ae,bsb.legal,Fail,StillDiff
+Abdulhameed Aljasmi Advocates and Legal Consultants,Abdulhameed Aljasmi,https://ajlc.ae,proserve.ae,Fail,StillDiff
+ESG-Network,Constantin Frank-Fahle,https://esg-network.org,em-ltc.com,Fail,FetchErr:200|Error
+Al Sulaiti Law Firm | السليطي للمحاماة والاستشارات القانونيه,Hussam Tantawy,https://alsulaitilawfirm.com,slf-qa.com,Fail,StillDiff
+Capital International Group,Werner Alberts,https://cigbusinesssetup.ae,capital-iom.com,Fail,FetchErr:200|Timeout
+VHF,Dhayglysth Gomes,https://vhf-legal.com,adv.oabes.org.br,Fail,FetchErr:Error|200
+Montreal Management Consultants LLC,Ibrahim Taha,https://mmce.ae,mmce.org,Pass,Pass
+ATI Solutions,Jason Smith,https://atisolutions.ae,marketingsolutionsmail.com,Fail,StillDiff
+SEAMLESS Legal,Leonid Zubarev,https://seamless.legal,cmslegal.ru,Pass,Pass
+iWorld,Yusuf Nabeel,https://internationalworld.com,iworld.com,Fail,StillDiff
+GARANT.IN  residence & citizenship,Marianna Skvortsova,https://garantin.com,houston-com.ru,Fail,FetchErr:Error|200
+NMC,Nmc Center,https://northwaymigration.com,nmc.edu,Fail,FetchErr:Error|200
+Strohal Legal Group,Jakob Kisser,https://slg-strohallegalgroup.com,slglaw.cc,Fail,StillDiff
+Vital Certificates UAE,Sarah Price,https://vitalcertificates.ae,vitalconsular.com,Fail,StillDiff
+Klay Legal Consultants,Kamal Bassi,https://klaylegal.com,klayconsultants.com,Fail,StillDiff
+Al Sharif Advocates & Legal Consultants,Al Advocates,https://dubailaw.com,alrowaad.ae,Fail,FetchErr:Timeout|200
+The Open World - Residencies & Citizenships,Charlie Imcm,https://the-open-world.com,goldenticketinvests.com,Fail,StillDiff
+Elaqat Law,Yasmin Alafaliq,https://elaqatlaw.com,elaqat.org,Fail,StillDiff
+SA Global Citizenship,Ahsan Khaliq,https://saglobalcitizenship.com,saadahsan.com,Pass,Pass
+Debt Collection Agency,Haxhi Jemini,https://debtcollectionagenciesinuae.com,ecollect.com.au,Fail,StillDiff
+Lex Ensemble FZ LLC,Santanu Ghosh,https://lexensemble.com,lex-ensemble.com,Fail,FetchErr:Error|200
+Osama Bakhurji Law Co For Law And Legal Consultation,Abdulaziz Bakhurji,https://bakhurji-co.com,bakhurji-law.com,Fail,FetchErr:Error|200
+HZ Legal,Hossam Zakaria,https://hzlegal.ae,hz-legalservices.com,Fail,FetchErr:200|Timeout
+RAS Corporate Advisors,Mohammed Shuheb,https://rascorporateadvisors.com,rca.ae,Fail,StillDiff
+Sukook lawfirm,Majed Aldafri,https://sukook.com.sa,sukook-lawfirm.com,Fail,FetchErr:Error|200
+James Berry & Associates Legal Consultants,Nichola Reece-Burton,https://jamesberrylaw.com,jamesberrylaw.ae,Fail,StillDiff
+TWS Legal Consultants,Nita Tep,https://willsuae.com,twslegal.ae,Fail,StillDiff
+Nexus & Partners Legal Consultancy,Aboud Khederchah,https://nexuspartners-legal.com,nexus-tech.shop,Fail,StillDiff
+CMI & Co.,Farhat Ali,https://cmiandco.com,centurymaxim.com,Fail,StillDiff
+Legal House,Pankaj Patil,https://legal-house.com,legalhouse.group,Fail,StillDiff
